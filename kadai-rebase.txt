@@ -1,1 +1,3 @@
 課題のpull --rebase　sample
+
+リモートで書き込み
